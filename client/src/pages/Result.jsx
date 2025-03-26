@@ -7,7 +7,7 @@ import { AppContext } from "../context/AppContext";
 const Result = () => {
 
 
-  const [image, setImage] = React.useState(assets.sample_img_1);
+  const [image, setImage] = React.useState(assets.sample_img_2);
   const [isImageLoaded, setIsImageLoaded] = useState(false);
   const [loading, setLoading] = useState(false);
   const [input, setInput] = useState("");

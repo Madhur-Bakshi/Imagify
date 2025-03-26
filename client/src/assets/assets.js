@@ -9,6 +9,7 @@ import sample_img_1 from './sample_img_1.png'
 import sample_img_2 from './sample_img_2.png'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
+import profile_img_3 from './profile_img_3.png'
 import step_icon_1 from './step_icon_1.svg'
 import step_icon_2 from './step_icon_2.svg'
 import step_icon_3 from './step_icon_3.svg'
@@ -56,28 +57,28 @@ export const stepsData = [
   ];
 
 export const testimonialsData = [
-    {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:'Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_2,
-        name:'Richard Nelson',
-        role:'Content Creator',
-        stars:4,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:' Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-]
+  {
+    image: profile_img_1,
+    name: "Donald Jackman",
+    role: "Graphic Designer",
+    stars: 5,
+    text: `I've been using Imagify for more than a year, primarily for web design, and it has greatly enhanced my workflow efficiency.`,
+  },
+  {
+    image: profile_img_2,
+    name: "Richard Nelson",
+    role: "Content Creator",
+    stars: 4,
+    text: `I've been using imagify for almost two years, mainly for social media content, and it's been extremely intuitive, simplifying my workflow significantly.`,
+  },
+  {
+    image: profile_img_3,
+    name: "James Carter",
+    role: "Digital Artist",
+    stars: 5,
+    text: `I've been using imagify for over a year, mainly for digital illustrations, and it has greatly improved my efficiency.`,
+  },
+];
 
 export const plans = [
     {
